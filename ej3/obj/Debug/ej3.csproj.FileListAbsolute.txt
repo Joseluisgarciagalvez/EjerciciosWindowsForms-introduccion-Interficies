@@ -1,0 +1,9 @@
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\bin\Debug\ej3.exe.config
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\bin\Debug\ej3.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\bin\Debug\ej3.pdb
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\obj\Debug\ej3.Form1.resources
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\obj\Debug\ej3.Properties.Resources.resources
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\obj\Debug\ej3.csproj.GenerateResource.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\obj\Debug\ej3.csproj.CoreCompileInputs.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\obj\Debug\ej3.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej3\obj\Debug\ej3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\bin\Debug\ej4(b.exe.config
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\bin\Debug\ej4(b.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\bin\Debug\ej4(b.pdb
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4(b.csprojAssemblyReference.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4_b.Form1.resources
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4_b.Properties.Resources.resources
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4(b.csproj.GenerateResource.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4(b.csproj.CoreCompileInputs.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4(b.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej4(b\obj\Debug\ej4(b.pdb

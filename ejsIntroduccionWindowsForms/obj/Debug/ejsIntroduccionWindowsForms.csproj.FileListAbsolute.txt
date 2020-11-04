@@ -1,0 +1,7 @@
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\bin\Debug\ejsIntroduccionWindowsForms.exe.config
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\bin\Debug\ejsIntroduccionWindowsForms.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\bin\Debug\ejsIntroduccionWindowsForms.pdb
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\obj\Debug\ejsIntroduccionWindowsForms.csprojAssemblyReference.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\obj\Debug\ejsIntroduccionWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\obj\Debug\ejsIntroduccionWindowsForms.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms\obj\Debug\ejsIntroduccionWindowsForms.pdb
