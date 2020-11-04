@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejsIntroduccionWindowsForms", "ejsIntroduccionWindowsForms\ejsIntroduccionWindowsForms.csproj", "{D9FE2840-05F3-4404-832F-03139804CB94}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej1", "ejUno\ej1.csproj", "{12A148B2-FD3B-4C64-B38F-E0B5DE45A7D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej2", "ej2\ej2.csproj", "{1497699F-1B9B-4F3A-A1FE-8BB70D873B45}"
@@ -17,16 +15,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej4(b", "ej4(b\ej4(b.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej5", "ej5\ej5.csproj", "{01FB7DA7-1524-4740-9149-D9A37541BD7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej6", "ej6\ej6.csproj", "{F5ADC05E-70C5-47CE-A7B1-AF83CD8BFB76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9FE2840-05F3-4404-832F-03139804CB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9FE2840-05F3-4404-832F-03139804CB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9FE2840-05F3-4404-832F-03139804CB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9FE2840-05F3-4404-832F-03139804CB94}.Release|Any CPU.Build.0 = Release|Any CPU
 		{12A148B2-FD3B-4C64-B38F-E0B5DE45A7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{12A148B2-FD3B-4C64-B38F-E0B5DE45A7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A148B2-FD3B-4C64-B38F-E0B5DE45A7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{01FB7DA7-1524-4740-9149-D9A37541BD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01FB7DA7-1524-4740-9149-D9A37541BD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01FB7DA7-1524-4740-9149-D9A37541BD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5ADC05E-70C5-47CE-A7B1-AF83CD8BFB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5ADC05E-70C5-47CE-A7B1-AF83CD8BFB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5ADC05E-70C5-47CE-A7B1-AF83CD8BFB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5ADC05E-70C5-47CE-A7B1-AF83CD8BFB76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
