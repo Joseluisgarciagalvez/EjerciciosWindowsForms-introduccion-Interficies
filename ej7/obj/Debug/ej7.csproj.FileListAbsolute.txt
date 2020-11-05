@@ -1,0 +1,10 @@
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\bin\Debug\ej7.exe.config
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\bin\Debug\ej7.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\bin\Debug\ej7.pdb
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.Form1.resources
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.Properties.Resources.resources
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.csproj.GenerateResource.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.csproj.CoreCompileInputs.cache
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.exe
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.pdb
+C:\Users\Jose Hogwarts\source\repos\ejsIntroduccionWindowsForms\ej7\obj\Debug\ej7.csprojAssemblyReference.cache
